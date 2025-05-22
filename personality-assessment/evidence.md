@@ -1,8 +1,5 @@
 # Personality Assessment Evidence
 
-This section includes the results of my personality test and how they relate to my career path.
+This screenshot shows the result of my personality test and how it relates to my career development.
 
-## Summary:
-- Personality type: [Insert MBTI/other type here if you did one]
-- Strengths: [E.g., detail-oriented, logical thinker]
-- How this applies: These traits support my career in software development.
+![Personality Assessment Screenshot](PersonalityAssessmentEvidence.PNG)
