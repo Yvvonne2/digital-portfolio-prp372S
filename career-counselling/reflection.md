@@ -1,6 +1,9 @@
 # Career Counselling Reflection
 
-**S**: I was unsure which IT career role would best fit my values and strengths.  
-**T**: I had to explore career options during a counselling session and complete a worksheet.  
-**A**: I reflected on my goals and aligned them with job descriptions in tech.  
-**R**: I now feel confident pursuing a career as a software developer, with a clear plan for personal growth.
+**S**: I was uncertain about which IT career path aligned with my interests, strengths, and long-term goals.
+
+**T**: I completed a comprehensive online Career Development assessment, which included reading notes, answering quizzes, and writing a final exam to evaluate my understanding.
+
+**A**: I engaged deeply with the materials, reflected on my values and technical abilities, and considered various roles within the IT field. I used the insights gained from the assessment to evaluate which path suited me best.
+
+**R**: I gained clarity and confidence in pursuing a career as a software developer. I now have a stronger sense of direction and a personal development plan to guide my next steps.
