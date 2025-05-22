@@ -1,4 +1,4 @@
-# Reflection Using STAR – Career Counselling
+# Career Counselling Reflection
 
 **S**: I was unsure which IT career role would best fit my values and strengths.  
 **T**: I had to explore career options during a counselling session and complete a worksheet.  
